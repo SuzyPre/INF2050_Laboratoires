@@ -1,3 +1,3 @@
 # INF2050 Laboratoires
-Suzanne Prémont
+Pas Suzanne PrÃ©mont
 Date : 16 janvier 2019
